@@ -133,3 +133,9 @@
 </div>
 
 ###
+
+<br clear = "both">
+
+<img src = "https://raw.githubusercontent.com/rishab59/rishab59/output/snake.svg" alt = "Snake animation" />
+
+###
